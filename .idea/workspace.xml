@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb02b6b3-40ca-485d-8ae9-e486ffeb0a72" name="Default Changelist" comment="" />
+    <list default="true" id="fb02b6b3-40ca-485d-8ae9-e486ffeb0a72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/HoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/HoverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TemaLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TemaLogin.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +32,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/HoverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="25" column="16" selection-start-line="25" selection-end-line="26" />
+            <state relative-caret-position="344">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/TemaLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1006">
-              <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+            <state relative-caret-position="434">
+              <caret line="178" column="8" selection-start-line="178" selection-start-column="8" selection-end-line="178" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,26 +118,29 @@
       <dir>C:\Users\Bogar\IdeaProjects\probaAutomation\src\test\java</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/a/x.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/FirstClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/help/basetest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/InputData.properties" />
         <option value="$PROJECT_DIR$/src/test/java/test/LoginTestTema.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/LoginTestTema" />
         <option value="$PROJECT_DIR$/src/test/java/test/TemaLogin" />
-        <option value="$PROJECT_DIR$/src/test/java/test/TemaLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/help/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/Proba.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/proba.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/HoverTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/TemaRegister.java" />
         <option value="$PROJECT_DIR$/src/test/java/help/Helpermethods.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/WebElementTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/HoverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/FirstClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/TemaLogin.java" />
       </list>
     </option>
   </component>
@@ -137,6 +157,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -214,6 +235,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -486,16 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -553,20 +565,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/TemaLogin.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/HoverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1006">
-          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        <state relative-caret-position="344">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/HoverTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/FirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="16" selection-start-line="25" selection-end-line="26" />
+        <state relative-caret-position="128">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/TemaLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="178" column="8" selection-start-line="178" selection-start-column="8" selection-end-line="178" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
